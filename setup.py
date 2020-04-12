@@ -2,7 +2,7 @@ import setuptools
 
 setuptools.setup(
     name='pytest-modifyscope',
-    version='0.2.0',
+    version='0.3.0',
     author='Shungiku',
     author_email='shungiku@x06.org',
     description='pytest plugin to modify fixture scope',
